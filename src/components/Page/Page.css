@@ -1,0 +1,42 @@
+.page{
+
+
+height:auto;
+ 
+}
+.cards{
+    margin-top: 60px;
+   padding: 80px;
+    display: flex;
+  gap:50px;
+    flex-wrap: wrap;
+    
+}
+.card{
+  
+    margin-left: 0px;
+  width:300px;
+  height:360px;
+   width:"0px";
+    
+   
+    
+}
+.image{
+    cursor:pointer;
+    
+}
+
+.bg-image{
+cursor: pointer;
+}
+.button{
+    outline: none;
+    background-color: blueviolet;
+    border: 0;
+    padding: 5px 25px;
+    border-radius: 5px;
+    color:white;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    cursor:pointer;
+}
